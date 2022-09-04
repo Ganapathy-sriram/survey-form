@@ -1,0 +1,53 @@
+.body{
+    background-color: white;
+    float:left;
+    width: 600px;
+    margin:100px;
+    border:grey;
+    align-content: center;
+    display:flex;
+}
+
+.radiobut
+{
+    margin-left:50px;
+}
+.checked {
+    color: orange;
+    font-size: xx-large;
+  }
+span{
+      font-size: 10px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td, th {
+    border: 0px solid #dddddd;
+    text-align: left;
+    padding: 2.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: center;
+    border-radius:5px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  p{
+      font-weight: bolder;
+  }
+  .stars{
+      font-weight: bolder;
+  }.top{
+      font-weight: bolder;
+  }
+.important{
+  color: crimson;
+  font-size: medium;
+}
+body{padding-left: 25px;}
